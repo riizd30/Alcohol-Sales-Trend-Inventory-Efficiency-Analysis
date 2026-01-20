@@ -52,4 +52,8 @@ Marketing efforts should focus on high-revenue products, distribution should fav
 Inventory and sales performance must be evaluated together. Examining conversion rates rather than total sales highlights which items actively generate revenue and which tie up capital. The findings provide a practical basis for better inventory management and sustainable decision-making.
 
 ## Disclaimer
-This project demonstrates Excel-based analysis. The dataset is publicly available from Kaggle. Insights are for learning and portfolio purposes only and should not be used for real business decisions.
+This project demonstrates Excel-based analysis. The dataset is publicly available from Kaggle. Insights are for learning and portfolio purposes only and should not be used for real business decisions. 
+
+## Link Dataset Excell with Analyze
+https://docs.google.com/spreadsheets/d/10xcm7F877VMfM3nJ4ognLsSAMrQ2yipK/edit?usp=sharing&ouid=117469703976569451642&rtpof=true&sd=true
+
